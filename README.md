@@ -1,0 +1,2 @@
+# foolstack
+applications
